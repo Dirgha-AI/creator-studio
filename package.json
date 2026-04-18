@@ -1,0 +1,27 @@
+{
+  "name": "@dirgha/creator-studio",
+  "version": "1.0.0",
+  "description": "Creator monetization and social platform API",
+  "license": "Apache-2.0",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.14",
+    "@hono/zod-validator": "^0.4.3",
+    "hono": "^4.7.7",
+    "pg": "^8.13.3",
+    "stripe": "^17.7.0",
+    "tsx": "^4.19.2",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@types/pg": "^8.11.11",
+    "typescript": "^5.8.3"
+  }
+}
