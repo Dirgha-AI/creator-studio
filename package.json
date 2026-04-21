@@ -31,5 +31,9 @@
   "engines": {
     "node": ">=20.0.0"
   },
-  "author": "Salik Shah <salik@dirgha.ai>"
+  "author": "Salik Shah <salik@dirgha.ai>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirghaai/creator-studio.git"
+  }
 }
