@@ -23,5 +23,13 @@
     "@types/node": "^22.14.1",
     "@types/pg": "^8.11.11",
     "typescript": "^5.8.3"
-  }
+  },
+  "homepage": "https://dirgha.ai/creator",
+  "bugs": {
+    "url": "https://github.com/dirghaai/creator-studio/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "Salik Shah <salik@dirgha.ai>"
 }
