@@ -1,3 +1,5 @@
+<div align="center">
+
 # Creator Studio
 
 **Creator workspace — agents handle the production, posting, and monetization grind.**
@@ -5,6 +7,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE)
 [![Sponsor](https://img.shields.io/badge/sponsor-%E2%99%A1-ec4899?style=flat-square)](https://dirgha.ai/contribute)
 
+</div>
 ---
 
 Creator Studio is where you build, post, and monetize as a creator with agents alongside you — run campaigns, sell digital products and memberships, publish apps, manage social channels, and watch your audience without context-switching between ten tools.
